@@ -1,0 +1,33 @@
+.cuadrado {
+    
+    position:inherit;
+    background-color: gray;
+    width: 1500px;
+    padding: 6px;
+
+
+}
+
+.elemento {
+    position:relative;
+    left: 1150px;
+}
+
+nav li {
+
+    position: relative 20px;
+
+}
+ 
+
+#final {
+ background-color:gray; 
+   width: 1500px;
+
+
+}
+
+section  {
+    display: flex;
+
+}
